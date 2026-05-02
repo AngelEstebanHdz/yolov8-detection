@@ -4,7 +4,8 @@ Real-time object detection using YOLOv8 and OpenCV. Detects objects through a we
 
 ## Demo
 
-![Demo](demo.png)
+<img width="669" height="523" alt="image" src="https://github.com/user-attachments/assets/10dd5fd6-643f-4cdd-ba74-e0d14ff527e1" />
+
 
 ## Requirements
 
